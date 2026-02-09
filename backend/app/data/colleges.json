@@ -1,0 +1,1914 @@
+{
+    "colleges": [
+        {
+            "key": "iit bombay",
+            "name": "Indian Institute of Technology Bombay",
+            "url": "https://www.iitb.ac.in"
+        },
+        {
+            "key": "iit delhi",
+            "name": "Indian Institute of Technology Delhi",
+            "url": "https://home.iitd.ac.in"
+        },
+        {
+            "key": "iit madras",
+            "name": "Indian Institute of Technology Madras",
+            "url": "https://www.iitm.ac.in"
+        },
+        {
+            "key": "iit kanpur",
+            "name": "Indian Institute of Technology Kanpur",
+            "url": "https://www.iitk.ac.in"
+        },
+        {
+            "key": "iit kharagpur",
+            "name": "Indian Institute of Technology Kharagpur",
+            "url": "https://www.iitkgp.ac.in"
+        },
+        {
+            "key": "iit roorkee",
+            "name": "Indian Institute of Technology Roorkee",
+            "url": "https://www.iitr.ac.in"
+        },
+        {
+            "key": "iit guwahati",
+            "name": "Indian Institute of Technology Guwahati",
+            "url": "https://www.iitg.ac.in"
+        },
+        {
+            "key": "iit hyderabad",
+            "name": "Indian Institute of Technology Hyderabad",
+            "url": "https://www.iith.ac.in"
+        },
+        {
+            "key": "iit bhu",
+            "name": "Indian Institute of Technology (BHU) Varanasi",
+            "url": "https://www.iitbhu.ac.in"
+        },
+        {
+            "key": "iit indore",
+            "name": "Indian Institute of Technology Indore",
+            "url": "https://www.iiti.ac.in"
+        },
+        {
+            "key": "iit mandi",
+            "name": "Indian Institute of Technology Mandi",
+            "url": "https://www.iitmandi.ac.in"
+        },
+        {
+            "key": "iit patna",
+            "name": "Indian Institute of Technology Patna",
+            "url": "https://www.iitp.ac.in"
+        },
+        {
+            "key": "iit bhubaneswar",
+            "name": "Indian Institute of Technology Bhubaneswar",
+            "url": "https://www.iitbbs.ac.in"
+        },
+        {
+            "key": "iit ropar",
+            "name": "Indian Institute of Technology Ropar",
+            "url": "https://www.iitrpr.ac.in"
+        },
+        {
+            "key": "iit jodhpur",
+            "name": "Indian Institute of Technology Jodhpur",
+            "url": "https://www.iitj.ac.in"
+        },
+        {
+            "key": "iit gandhinagar",
+            "name": "Indian Institute of Technology Gandhinagar",
+            "url": "https://www.iitgn.ac.in"
+        },
+        {
+            "key": "iit tirupati",
+            "name": "Indian Institute of Technology Tirupati",
+            "url": "https://www.iittp.ac.in"
+        },
+        {
+            "key": "iit palakkad",
+            "name": "Indian Institute of Technology Palakkad",
+            "url": "https://www.iitpkd.ac.in"
+        },
+        {
+            "key": "iit goa",
+            "name": "Indian Institute of Technology Goa",
+            "url": "https://www.iitgoa.ac.in"
+        },
+        {
+            "key": "iit jammu",
+            "name": "Indian Institute of Technology Jammu",
+            "url": "https://www.iitjammu.ac.in"
+        },
+        {
+            "key": "iit dharwad",
+            "name": "Indian Institute of Technology Dharwad",
+            "url": "https://www.iitdh.ac.in"
+        },
+        {
+            "key": "iit bhilai",
+            "name": "Indian Institute of Technology Bhilai",
+            "url": "https://www.iitbhilai.ac.in"
+        },
+        {
+            "key": "iit ism dhanbad",
+            "name": "Indian Institute of Technology (ISM) Dhanbad",
+            "url": "https://www.iitism.ac.in"
+        },
+        {
+            "key": "nit trichy",
+            "name": "National Institute of Technology, Tiruchirappalli",
+            "url": "https://www.nitt.edu"
+        },
+        {
+            "key": "nit surathkal",
+            "name": "National Institute of Technology Karnataka, Surathkal",
+            "url": "https://www.nitk.ac.in"
+        },
+        {
+            "key": "nit warangal",
+            "name": "National Institute of Technology Warangal",
+            "url": "https://www.nitw.ac.in"
+        },
+        {
+            "key": "nit calicut",
+            "name": "National Institute of Technology Calicut",
+            "url": "https://www.nitc.ac.in"
+        },
+        {
+            "key": "nit rourkela",
+            "name": "National Institute of Technology Rourkela",
+            "url": "https://www.nitrkl.ac.in"
+        },
+        {
+            "key": "nit allahabad",
+            "name": "Motilal Nehru National Institute of Technology Allahabad",
+            "url": "https://www.mnnit.ac.in"
+        },
+        {
+            "key": "nit nagpur",
+            "name": "Visvesvaraya National Institute of Technology Nagpur",
+            "url": "https://vnit.ac.in"
+        },
+        {
+            "key": "nit jamshedpur",
+            "name": "National Institute of Technology Jamshedpur",
+            "url": "https://www.nitjsr.ac.in"
+        },
+        {
+            "key": "nit durgapur",
+            "name": "National Institute of Technology Durgapur",
+            "url": "https://www.nitdgp.ac.in"
+        },
+        {
+            "key": "nit kurukshetra",
+            "name": "National Institute of Technology Kurukshetra",
+            "url": "https://www.nitkkr.ac.in"
+        },
+        {
+            "key": "nit silchar",
+            "name": "National Institute of Technology Silchar",
+            "url": "https://www.nits.ac.in"
+        },
+        {
+            "key": "nit hamirpur",
+            "name": "National Institute of Technology Hamirpur",
+            "url": "https://www.nith.ac.in"
+        },
+        {
+            "key": "nit srinagar",
+            "name": "National Institute of Technology Srinagar",
+            "url": "https://www.nitsri.ac.in"
+        },
+        {
+            "key": "nit jalandhar",
+            "name": "Dr. B R Ambedkar National Institute of Technology Jalandhar",
+            "url": "https://www.nitj.ac.in"
+        },
+        {
+            "key": "nit patna",
+            "name": "National Institute of Technology Patna",
+            "url": "https://www.nitp.ac.in"
+        },
+        {
+            "key": "nit raipur",
+            "name": "National Institute of Technology Raipur",
+            "url": "https://www.nitrr.ac.in"
+        },
+        {
+            "key": "nit agartala",
+            "name": "National Institute of Technology Agartala",
+            "url": "https://www.nita.ac.in"
+        },
+        {
+            "key": "nit arunachal",
+            "name": "National Institute of Technology Arunachal Pradesh",
+            "url": "https://www.nitap.ac.in"
+        },
+        {
+            "key": "nit meghalaya",
+            "name": "National Institute of Technology Meghalaya",
+            "url": "https://www.nitm.ac.in"
+        },
+        {
+            "key": "nit mizoram",
+            "name": "National Institute of Technology Mizoram",
+            "url": "https://www.nitmz.ac.in"
+        },
+        {
+            "key": "nit manipur",
+            "name": "National Institute of Technology Manipur",
+            "url": "https://www.nitmanipur.ac.in"
+        },
+        {
+            "key": "nit nagaland",
+            "name": "National Institute of Technology Nagaland",
+            "url": "https://www.nitnagaland.ac.in"
+        },
+        {
+            "key": "nit sikkim",
+            "name": "National Institute of Technology Sikkim",
+            "url": "https://www.nitsikkim.ac.in"
+        },
+        {
+            "key": "nit goa",
+            "name": "National Institute of Technology Goa",
+            "url": "https://www.nitgoa.ac.in"
+        },
+        {
+            "key": "nit puducherry",
+            "name": "National Institute of Technology Puducherry",
+            "url": "https://www.nitpy.ac.in"
+        },
+        {
+            "key": "nit uttarakhand",
+            "name": "National Institute of Technology Uttarakhand",
+            "url": "https://www.nituk.ac.in"
+        },
+        {
+            "key": "nit delhi",
+            "name": "National Institute of Technology Delhi",
+            "url": "https://www.nitdelhi.ac.in"
+        },
+        {
+            "key": "nit andhra",
+            "name": "National Institute of Technology Andhra Pradesh",
+            "url": "https://www.nitandhra.ac.in"
+        },
+        {
+            "key": "nit andhrapradesh",
+            "name": "National Institute of Technology Andhra Pradesh",
+            "url": "https://www.nitandhra.ac.in"
+        },
+        {
+            "key": "nit ap",
+            "name": "National Institute of Technology Andhra Pradesh",
+            "url": "https://www.nitandhra.ac.in"
+        },
+        {
+            "key": "nitap",
+            "name": "National Institute of Technology Andhra Pradesh",
+            "url": "https://www.nitandhra.ac.in"
+        },
+        {
+            "key": "iim ahmedabad",
+            "name": "Indian Institute of Management Ahmedabad",
+            "url": "https://www.iima.ac.in"
+        },
+        {
+            "key": "iim bangalore",
+            "name": "Indian Institute of Management Bangalore",
+            "url": "https://www.iimb.ac.in"
+        },
+        {
+            "key": "iim calcutta",
+            "name": "Indian Institute of Management Calcutta",
+            "url": "https://www.iimcal.ac.in"
+        },
+        {
+            "key": "iim lucknow",
+            "name": "Indian Institute of Management Lucknow",
+            "url": "https://www.iiml.ac.in"
+        },
+        {
+            "key": "iim kozhikode",
+            "name": "Indian Institute of Management Kozhikode",
+            "url": "https://www.iimk.ac.in"
+        },
+        {
+            "key": "iim indore",
+            "name": "Indian Institute of Management Indore",
+            "url": "https://www.iimidr.ac.in"
+        },
+        {
+            "key": "iim shillong",
+            "name": "Indian Institute of Management Shillong",
+            "url": "https://www.iimshillong.ac.in"
+        },
+        {
+            "key": "iim rohtak",
+            "name": "Indian Institute of Management Rohtak",
+            "url": "https://www.iimrohtak.ac.in"
+        },
+        {
+            "key": "iim ranchi",
+            "name": "Indian Institute of Management Ranchi",
+            "url": "https://www.iimranchi.ac.in"
+        },
+        {
+            "key": "iim raipur",
+            "name": "Indian Institute of Management Raipur",
+            "url": "https://www.iimraipur.ac.in"
+        },
+        {
+            "key": "iim trichy",
+            "name": "Indian Institute of Management Tiruchirappalli",
+            "url": "https://www.iimtrichy.ac.in"
+        },
+        {
+            "key": "iim kashipur",
+            "name": "Indian Institute of Management Kashipur",
+            "url": "https://www.iimkashipur.ac.in"
+        },
+        {
+            "key": "iim udaipur",
+            "name": "Indian Institute of Management Udaipur",
+            "url": "https://www.iimu.ac.in"
+        },
+        {
+            "key": "iim nagpur",
+            "name": "Indian Institute of Management Nagpur",
+            "url": "https://www.iimnagpur.ac.in"
+        },
+        {
+            "key": "iim bodh gaya",
+            "name": "Indian Institute of Management Bodh Gaya",
+            "url": "https://www.iimbg.ac.in"
+        },
+        {
+            "key": "iim visakhapatnam",
+            "name": "Indian Institute of Management Visakhapatnam",
+            "url": "https://www.iimv.ac.in"
+        },
+        {
+            "key": "iim amritsar",
+            "name": "Indian Institute of Management Amritsar",
+            "url": "https://www.iimamritsar.ac.in"
+        },
+        {
+            "key": "iim sambalpur",
+            "name": "Indian Institute of Management Sambalpur",
+            "url": "https://www.iimsambalpur.ac.in"
+        },
+        {
+            "key": "iim sirmaur",
+            "name": "Indian Institute of Management Sirmaur",
+            "url": "https://www.iimsirmaur.ac.in"
+        },
+        {
+            "key": "iim jammu",
+            "name": "Indian Institute of Management Jammu",
+            "url": "https://www.iimj.ac.in"
+        },
+        {
+            "key": "iiit hyderabad",
+            "name": "International Institute of Information Technology Hyderabad",
+            "url": "https://www.iiit.ac.in"
+        },
+        {
+            "key": "iiit delhi",
+            "name": "Indraprastha Institute of Information Technology Delhi",
+            "url": "https://www.iiitd.ac.in"
+        },
+        {
+            "key": "iiit bangalore",
+            "name": "International Institute of Information Technology Bangalore",
+            "url": "https://www.iiitb.ac.in"
+        },
+        {
+            "key": "iiit allahabad",
+            "name": "Indian Institute of Information Technology Allahabad",
+            "url": "https://www.iiita.ac.in"
+        },
+        {
+            "key": "iiit gwalior",
+            "name": "ABV-Indian Institute of Information Technology and Management Gwalior",
+            "url": "https://www.iiitm.ac.in"
+        },
+        {
+            "key": "iiit jabalpur",
+            "name": "Indian Institute of Information Technology, Design and Manufacturing Jabalpur",
+            "url": "https://www.iiitdmj.ac.in"
+        },
+        {
+            "key": "iiit kancheepuram",
+            "name": "Indian Institute of Information Technology, Design and Manufacturing Kancheepuram",
+            "url": "https://www.iiitdm.ac.in"
+        },
+        {
+            "key": "iiit kottayam",
+            "name": "Indian Institute of Information Technology Kottayam",
+            "url": "https://www.iiitkottayam.ac.in"
+        },
+        {
+            "key": "iiit manipur",
+            "name": "Indian Institute of Information Technology Manipur",
+            "url": "https://www.iiitmanipur.ac.in"
+        },
+        {
+            "key": "iiit nagpur",
+            "name": "Indian Institute of Information Technology Nagpur",
+            "url": "https://iiitn.ac.in"
+        },
+        {
+            "key": "iiit pune",
+            "name": "Indian Institute of Information Technology Pune",
+            "url": "https://www.iiitp.ac.in"
+        },
+        {
+            "key": "iiit ranchi",
+            "name": "Indian Institute of Information Technology Ranchi",
+            "url": "https://www.iiitranchi.ac.in"
+        },
+        {
+            "key": "iiit sonepat",
+            "name": "Indian Institute of Information Technology Sonepat",
+            "url": "https://www.iiitsonepat.ac.in"
+        },
+        {
+            "key": "iiit sri city",
+            "name": "Indian Institute of Information Technology Sri City",
+            "url": "https://www.iiits.ac.in"
+        },
+        {
+            "key": "iiit surat",
+            "name": "Indian Institute of Information Technology Surat",
+            "url": "https://www.iiitsurat.ac.in"
+        },
+        {
+            "key": "iiit trichy",
+            "name": "Indian Institute of Information Technology Trichy",
+            "url": "https://www.iiitt.ac.in"
+        },
+        {
+            "key": "iiit una",
+            "name": "Indian Institute of Information Technology Una",
+            "url": "https://www.iiitu.ac.in"
+        },
+        {
+            "key": "iiit vadodara",
+            "name": "Indian Institute of Information Technology Vadodara",
+            "url": "https://www.iiitvadodara.ac.in"
+        },
+        {
+            "key": "iiit lucknow",
+            "name": "Indian Institute of Information Technology Lucknow",
+            "url": "https://iiitl.ac.in"
+        },
+        {
+            "key": "iiit dharwad",
+            "name": "Indian Institute of Information Technology Dharwad",
+            "url": "https://www.iiitdwd.ac.in"
+        },
+        {
+            "key": "iiit kalyani",
+            "name": "Indian Institute of Information Technology Kalyani",
+            "url": "https://www.iiitkalyani.ac.in"
+        },
+        {
+            "key": "iiit bhagalpur",
+            "name": "Indian Institute of Information Technology Bhagalpur",
+            "url": "https://www.iiitbh.ac.in"
+        },
+        {
+            "key": "iiit bhopal",
+            "name": "Indian Institute of Information Technology Bhopal",
+            "url": "https://www.iiitbhopal.ac.in"
+        },
+        {
+            "key": "iiit agartala",
+            "name": "Indian Institute of Information Technology Agartala",
+            "url": "https://www.iiitagartala.ac.in"
+        },
+        {
+            "key": "iiit raichur",
+            "name": "Indian Institute of Information Technology Raichur",
+            "url": "https://www.iiitr.ac.in"
+        },
+        {
+            "key": "iisc bangalore",
+            "name": "Indian Institute of Science",
+            "url": "https://www.iisc.ac.in"
+        },
+        {
+            "key": "iisc",
+            "name": "Indian Institute of Science",
+            "url": "https://www.iisc.ac.in"
+        },
+        {
+            "key": "bits pilani",
+            "name": "Birla Institute of Technology and Science, Pilani",
+            "url": "https://www.bits-pilani.ac.in"
+        },
+        {
+            "key": "bits goa",
+            "name": "BITS Pilani Goa Campus",
+            "url": "https://www.bits-pilani.ac.in/goa"
+        },
+        {
+            "key": "bits hyderabad",
+            "name": "BITS Pilani Hyderabad Campus",
+            "url": "https://www.bits-pilani.ac.in/hyderabad"
+        },
+        {
+            "key": "bits dubai",
+            "name": "BITS Pilani Dubai Campus",
+            "url": "https://www.bits-pilani.ac.in/dubai"
+        },
+        {
+            "key": "vit vellore",
+            "name": "Vellore Institute of Technology",
+            "url": "https://vit.ac.in"
+        },
+        {
+            "key": "vit",
+            "name": "Vellore Institute of Technology",
+            "url": "https://vit.ac.in"
+        },
+        {
+            "key": "vit chennai",
+            "name": "VIT Chennai",
+            "url": "https://chennai.vit.ac.in"
+        },
+        {
+            "key": "vit bhopal",
+            "name": "VIT Bhopal University",
+            "url": "https://vitbhopal.ac.in"
+        },
+        {
+            "key": "vit ap",
+            "name": "VIT-AP University",
+            "url": "https://vitap.ac.in"
+        },
+        {
+            "key": "srm university",
+            "name": "SRM Institute of Science and Technology",
+            "url": "https://www.srmist.edu.in"
+        },
+        {
+            "key": "srm chennai",
+            "name": "SRM Institute of Science and Technology",
+            "url": "https://www.srmist.edu.in"
+        },
+        {
+            "key": "srm ap",
+            "name": "SRM University AP",
+            "url": "https://srmap.edu.in"
+        },
+        {
+            "key": "manipal university",
+            "name": "Manipal Academy of Higher Education",
+            "url": "https://manipal.edu"
+        },
+        {
+            "key": "manipal",
+            "name": "Manipal Academy of Higher Education",
+            "url": "https://manipal.edu"
+        },
+        {
+            "key": "mit manipal",
+            "name": "Manipal Institute of Technology",
+            "url": "https://www.manipal.edu/mit.html"
+        },
+        {
+            "key": "amity university",
+            "name": "Amity University",
+            "url": "https://www.amity.edu"
+        },
+        {
+            "key": "amity noida",
+            "name": "Amity University Noida",
+            "url": "https://www.amity.edu/noida"
+        },
+        {
+            "key": "amity",
+            "name": "Amity University",
+            "url": "https://www.amity.edu"
+        },
+        {
+            "key": "lovely professional university",
+            "name": "Lovely Professional University",
+            "url": "https://www.lpu.in"
+        },
+        {
+            "key": "lpu",
+            "name": "Lovely Professional University",
+            "url": "https://www.lpu.in"
+        },
+        {
+            "key": "chandigarh university",
+            "name": "Chandigarh University",
+            "url": "https://www.cuchd.in"
+        },
+        {
+            "key": "thapar university",
+            "name": "Thapar Institute of Engineering & Technology",
+            "url": "https://www.thapar.edu"
+        },
+        {
+            "key": "thapar",
+            "name": "Thapar Institute of Engineering & Technology",
+            "url": "https://www.thapar.edu"
+        },
+        {
+            "key": "delhi university",
+            "name": "University of Delhi",
+            "url": "https://www.du.ac.in"
+        },
+        {
+            "key": "du",
+            "name": "University of Delhi",
+            "url": "https://www.du.ac.in"
+        },
+        {
+            "key": "jnu",
+            "name": "Jawaharlal Nehru University",
+            "url": "https://www.jnu.ac.in"
+        },
+        {
+            "key": "jawaharlal nehru university",
+            "name": "Jawaharlal Nehru University",
+            "url": "https://www.jnu.ac.in"
+        },
+        {
+            "key": "bhu",
+            "name": "Banaras Hindu University",
+            "url": "https://www.bhu.ac.in"
+        },
+        {
+            "key": "banaras hindu university",
+            "name": "Banaras Hindu University",
+            "url": "https://www.bhu.ac.in"
+        },
+        {
+            "key": "anna university",
+            "name": "Anna University",
+            "url": "https://www.annauniv.edu"
+        },
+        {
+            "key": "mumbai university",
+            "name": "University of Mumbai",
+            "url": "https://mu.ac.in"
+        },
+        {
+            "key": "university of mumbai",
+            "name": "University of Mumbai",
+            "url": "https://mu.ac.in"
+        },
+        {
+            "key": "pune university",
+            "name": "Savitribai Phule Pune University",
+            "url": "http://www.unipune.ac.in"
+        },
+        {
+            "key": "sppu",
+            "name": "Savitribai Phule Pune University",
+            "url": "http://www.unipune.ac.in"
+        },
+        {
+            "key": "osmania university",
+            "name": "Osmania University",
+            "url": "https://www.osmania.ac.in"
+        },
+        {
+            "key": "calcutta university",
+            "name": "University of Calcutta",
+            "url": "https://www.caluniv.ac.in"
+        },
+        {
+            "key": "cu kolkata",
+            "name": "University of Calcutta",
+            "url": "https://www.caluniv.ac.in"
+        },
+        {
+            "key": "madras university",
+            "name": "University of Madras",
+            "url": "https://www.unom.ac.in"
+        },
+        {
+            "key": "jadavpur university",
+            "name": "Jadavpur University",
+            "url": "http://www.jaduniv.edu.in"
+        },
+        {
+            "key": "andhra university",
+            "name": "Andhra University",
+            "url": "https://www.andhrauniversity.edu.in"
+        },
+        {
+            "key": "aligarh muslim university",
+            "name": "Aligarh Muslim University",
+            "url": "https://www.amu.ac.in"
+        },
+        {
+            "key": "amu",
+            "name": "Aligarh Muslim University",
+            "url": "https://www.amu.ac.in"
+        },
+        {
+            "key": "jamia millia islamia",
+            "name": "Jamia Millia Islamia",
+            "url": "https://www.jmi.ac.in"
+        },
+        {
+            "key": "jamia",
+            "name": "Jamia Millia Islamia",
+            "url": "https://www.jmi.ac.in"
+        },
+        {
+            "key": "hyderabad university",
+            "name": "University of Hyderabad",
+            "url": "https://www.uohyd.ac.in"
+        },
+        {
+            "key": "uoh",
+            "name": "University of Hyderabad",
+            "url": "https://www.uohyd.ac.in"
+        },
+        {
+            "key": "kerala university",
+            "name": "University of Kerala",
+            "url": "https://www.keralauniversity.ac.in"
+        },
+        {
+            "key": "mysore university",
+            "name": "University of Mysore",
+            "url": "https://www.uni-mysore.ac.in"
+        },
+        {
+            "key": "rajasthan university",
+            "name": "University of Rajasthan",
+            "url": "https://www.uniraj.ac.in"
+        },
+        {
+            "key": "lucknow university",
+            "name": "University of Lucknow",
+            "url": "https://www.lkouniv.ac.in"
+        },
+        {
+            "key": "patna university",
+            "name": "Patna University",
+            "url": "https://www.patnauniversity.ac.in"
+        },
+        {
+            "key": "gujarat university",
+            "name": "Gujarat University",
+            "url": "https://www.gujaratuniversity.ac.in"
+        },
+        {
+            "key": "aiims delhi",
+            "name": "All India Institute of Medical Sciences, New Delhi",
+            "url": "https://www.aiims.edu"
+        },
+        {
+            "key": "aiims",
+            "name": "All India Institute of Medical Sciences, New Delhi",
+            "url": "https://www.aiims.edu"
+        },
+        {
+            "key": "aiims bhopal",
+            "name": "All India Institute of Medical Sciences, Bhopal",
+            "url": "https://www.aiimsbhopal.edu.in"
+        },
+        {
+            "key": "aiims jodhpur",
+            "name": "All India Institute of Medical Sciences, Jodhpur",
+            "url": "https://www.aiimsjodhpur.edu.in"
+        },
+        {
+            "key": "aiims patna",
+            "name": "All India Institute of Medical Sciences, Patna",
+            "url": "https://www.aiimspatna.edu.in"
+        },
+        {
+            "key": "aiims rishikesh",
+            "name": "All India Institute of Medical Sciences, Rishikesh",
+            "url": "https://www.aiimsrishikesh.edu.in"
+        },
+        {
+            "key": "aiims raipur",
+            "name": "All India Institute of Medical Sciences, Raipur",
+            "url": "https://www.aiimsraipur.edu.in"
+        },
+        {
+            "key": "aiims nagpur",
+            "name": "All India Institute of Medical Sciences, Nagpur",
+            "url": "https://www.aiimsnagpur.edu.in"
+        },
+        {
+            "key": "aiims mangalagiri",
+            "name": "All India Institute of Medical Sciences, Mangalagiri",
+            "url": "https://www.aiimsmangalagiri.edu.in"
+        },
+        {
+            "key": "aiims gorakhpur",
+            "name": "All India Institute of Medical Sciences, Gorakhpur",
+            "url": "https://www.aiimsgorakhpur.edu.in"
+        },
+        {
+            "key": "aiims bibinagar",
+            "name": "All India Institute of Medical Sciences, Bibinagar",
+            "url": "https://www.aiimsbibinagar.edu.in"
+        },
+        {
+            "key": "aiims bathinda",
+            "name": "All India Institute of Medical Sciences, Bathinda",
+            "url": "https://www.aiimsbathinda.edu.in"
+        },
+        {
+            "key": "aiims kalyani",
+            "name": "All India Institute of Medical Sciences, Kalyani",
+            "url": "https://www.aiimskalyani.edu.in"
+        },
+        {
+            "key": "aiims deoghar",
+            "name": "All India Institute of Medical Sciences, Deoghar",
+            "url": "https://www.aiimsdeoghar.edu.in"
+        },
+        {
+            "key": "aiims rajkot",
+            "name": "All India Institute of Medical Sciences, Rajkot",
+            "url": "https://www.aiimsrajkot.edu.in"
+        },
+        {
+            "key": "cmc vellore",
+            "name": "Christian Medical College, Vellore",
+            "url": "https://www.cmch-vellore.edu"
+        },
+        {
+            "key": "jipmer",
+            "name": "Jawaharlal Institute of Postgraduate Medical Education and Research",
+            "url": "https://jipmer.edu.in"
+        },
+        {
+            "key": "pgimer chandigarh",
+            "name": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+            "url": "https://pgimer.edu.in"
+        },
+        {
+            "key": "nimhans",
+            "name": "National Institute of Mental Health and Neurosciences",
+            "url": "https://nimhans.ac.in"
+        },
+        {
+            "key": "kmc manipal",
+            "name": "Kasturba Medical College, Manipal",
+            "url": "https://www.manipal.edu/kmc-manipal.html"
+        },
+        {
+            "key": "maulana azad medical college",
+            "name": "Maulana Azad Medical College",
+            "url": "https://www.mamc.ac.in"
+        },
+        {
+            "key": "mamc",
+            "name": "Maulana Azad Medical College",
+            "url": "https://www.mamc.ac.in"
+        },
+        {
+            "key": "grant medical college",
+            "name": "Grant Medical College, Mumbai",
+            "url": "http://ggmc.maharashtra.gov.in"
+        },
+        {
+            "key": "seth gs medical college",
+            "name": "Seth GS Medical College",
+            "url": "https://www.kem.edu"
+        },
+        {
+            "key": "kem hospital mumbai",
+            "name": "King Edward Memorial Hospital and Seth G. S. Medical College",
+            "url": "https://www.kem.edu"
+        },
+        {
+            "key": "christ university",
+            "name": "Christ University",
+            "url": "https://christuniversity.in"
+        },
+        {
+            "key": "christ",
+            "name": "Christ University",
+            "url": "https://christuniversity.in"
+        },
+        {
+            "key": "symbiosis university",
+            "name": "Symbiosis International University",
+            "url": "https://www.siu.edu.in"
+        },
+        {
+            "key": "siu pune",
+            "name": "Symbiosis International University",
+            "url": "https://www.siu.edu.in"
+        },
+        {
+            "key": "nirma university",
+            "name": "Nirma University",
+            "url": "https://www.nirmauni.ac.in"
+        },
+        {
+            "key": "parul university",
+            "name": "Parul University",
+            "url": "https://www.paruluniversity.ac.in"
+        },
+        {
+            "key": "sharda university",
+            "name": "Sharda University",
+            "url": "https://www.sharda.ac.in"
+        },
+        {
+            "key": "bennett university",
+            "name": "Bennett University",
+            "url": "https://www.bennett.edu.in"
+        },
+        {
+            "key": "ashoka university",
+            "name": "Ashoka University",
+            "url": "https://www.ashoka.edu.in"
+        },
+        {
+            "key": "op jindal university",
+            "name": "O.P. Jindal Global University",
+            "url": "https://www.jgu.edu.in"
+        },
+        {
+            "key": "jgu",
+            "name": "O.P. Jindal Global University",
+            "url": "https://www.jgu.edu.in"
+        },
+        {
+            "key": "flame university",
+            "name": "FLAME University",
+            "url": "https://www.flame.edu.in"
+        },
+        {
+            "key": "krea university",
+            "name": "Krea University",
+            "url": "https://www.krea.edu.in"
+        },
+        {
+            "key": "plaksha university",
+            "name": "Plaksha University",
+            "url": "https://plaksha.edu.in"
+        },
+        {
+            "key": "shiv nadar university",
+            "name": "Shiv Nadar University",
+            "url": "https://snu.edu.in"
+        },
+        {
+            "key": "snu",
+            "name": "Shiv Nadar University",
+            "url": "https://snu.edu.in"
+        },
+        {
+            "key": "iiser pune",
+            "name": "Indian Institute of Science Education and Research, Pune",
+            "url": "https://www.iiserpune.ac.in"
+        },
+        {
+            "key": "iiser kolkata",
+            "name": "Indian Institute of Science Education and Research, Kolkata",
+            "url": "https://www.iiserkol.ac.in"
+        },
+        {
+            "key": "iiser mohali",
+            "name": "Indian Institute of Science Education and Research, Mohali",
+            "url": "https://www.iisermohali.ac.in"
+        },
+        {
+            "key": "iiser bhopal",
+            "name": "Indian Institute of Science Education and Research, Bhopal",
+            "url": "https://www.iiserb.ac.in"
+        },
+        {
+            "key": "iiser thiruvananthapuram",
+            "name": "Indian Institute of Science Education and Research, Thiruvananthapuram",
+            "url": "https://www.iisertvm.ac.in"
+        },
+        {
+            "key": "iiser tirupati",
+            "name": "Indian Institute of Science Education and Research, Tirupati",
+            "url": "https://www.iisertirupati.ac.in"
+        },
+        {
+            "key": "iiser berhampur",
+            "name": "Indian Institute of Science Education and Research, Berhampur",
+            "url": "https://www.iiserbpr.ac.in"
+        },
+        {
+            "key": "amrita university",
+            "name": "Amrita Vishwa Vidyapeetham",
+            "url": "https://www.amrita.edu"
+        },
+        {
+            "key": "amrita vishwa vidyapeetham",
+            "name": "Amrita Vishwa Vidyapeetham",
+            "url": "https://www.amrita.edu"
+        },
+        {
+            "key": "sastra university",
+            "name": "SASTRA Deemed University",
+            "url": "https://www.sastra.edu"
+        },
+        {
+            "key": "sastra",
+            "name": "SASTRA Deemed University",
+            "url": "https://www.sastra.edu"
+        },
+        {
+            "key": "psg tech",
+            "name": "PSG College of Technology",
+            "url": "https://www.psgtech.edu"
+        },
+        {
+            "key": "psg college of technology",
+            "name": "PSG College of Technology",
+            "url": "https://www.psgtech.edu"
+        },
+        {
+            "key": "ssn college",
+            "name": "SSN College of Engineering",
+            "url": "https://www.ssn.edu.in"
+        },
+        {
+            "key": "ssn",
+            "name": "SSN College of Engineering",
+            "url": "https://www.ssn.edu.in"
+        },
+        {
+            "key": "coimbatore institute of technology",
+            "name": "Coimbatore Institute of Technology",
+            "url": "https://www.cit.edu.in"
+        },
+        {
+            "key": "cit coimbatore",
+            "name": "Coimbatore Institute of Technology",
+            "url": "https://www.cit.edu.in"
+        },
+        {
+            "key": "kongu engineering college",
+            "name": "Kongu Engineering College",
+            "url": "https://www.kongu.edu"
+        },
+        {
+            "key": "kongu",
+            "name": "Kongu Engineering College",
+            "url": "https://www.kongu.edu"
+        },
+        {
+            "key": "kumaraguru college",
+            "name": "Kumaraguru College of Technology",
+            "url": "https://www.kct.ac.in"
+        },
+        {
+            "key": "kct",
+            "name": "Kumaraguru College of Technology",
+            "url": "https://www.kct.ac.in"
+        },
+        {
+            "key": "sathyabama university",
+            "name": "Sathyabama Institute of Science and Technology",
+            "url": "https://www.sathyabama.ac.in"
+        },
+        {
+            "key": "sathyabama",
+            "name": "Sathyabama Institute of Science and Technology",
+            "url": "https://www.sathyabama.ac.in"
+        },
+        {
+            "key": "saveetha university",
+            "name": "Saveetha Institute of Medical and Technical Sciences",
+            "url": "https://www.saveetha.ac.in"
+        },
+        {
+            "key": "saveetha",
+            "name": "Saveetha Institute of Medical and Technical Sciences",
+            "url": "https://www.saveetha.ac.in"
+        },
+        {
+            "key": "klu university",
+            "name": "KL University",
+            "url": "https://www.kluniversity.in"
+        },
+        {
+            "key": "klu",
+            "name": "KL University",
+            "url": "https://www.kluniversity.in"
+        },
+        {
+            "key": "mit pune",
+            "name": "MIT World Peace University",
+            "url": "https://mitwpu.edu.in"
+        },
+        {
+            "key": "mit wpu",
+            "name": "MIT World Peace University",
+            "url": "https://mitwpu.edu.in"
+        },
+        {
+            "key": "rv college",
+            "name": "RV College of Engineering",
+            "url": "https://rvce.edu.in"
+        },
+        {
+            "key": "rvce",
+            "name": "RV College of Engineering",
+            "url": "https://rvce.edu.in"
+        },
+        {
+            "key": "bms college",
+            "name": "BMS College of Engineering",
+            "url": "https://www.bmsce.ac.in"
+        },
+        {
+            "key": "bmsce",
+            "name": "BMS College of Engineering",
+            "url": "https://www.bmsce.ac.in"
+        },
+        {
+            "key": "pes university",
+            "name": "PES University",
+            "url": "https://www.pes.edu"
+        },
+        {
+            "key": "pes",
+            "name": "PES University",
+            "url": "https://www.pes.edu"
+        },
+        {
+            "key": "ramaiah university",
+            "name": "MS Ramaiah University of Applied Sciences",
+            "url": "https://www.msruas.ac.in"
+        },
+        {
+            "key": "msrit",
+            "name": "MS Ramaiah Institute of Technology",
+            "url": "https://www.msrit.edu"
+        },
+        {
+            "key": "ms ramaiah",
+            "name": "MS Ramaiah Institute of Technology",
+            "url": "https://www.msrit.edu"
+        },
+        {
+            "key": "dayananda sagar university",
+            "name": "Dayananda Sagar University",
+            "url": "https://www.dsu.edu.in"
+        },
+        {
+            "key": "dsu bangalore",
+            "name": "Dayananda Sagar University",
+            "url": "https://www.dsu.edu.in"
+        },
+        {
+            "key": "reva university",
+            "name": "REVA University",
+            "url": "https://www.rfreva.edu.in"
+        },
+        {
+            "key": "jain university",
+            "name": "Jain University",
+            "url": "https://www.jainuniversity.ac.in"
+        },
+        {
+            "key": "cmi chennai",
+            "name": "Chennai Mathematical Institute",
+            "url": "https://www.cmi.ac.in"
+        },
+        {
+            "key": "chennai mathematical institute",
+            "name": "Chennai Mathematical Institute",
+            "url": "https://www.cmi.ac.in"
+        },
+        {
+            "key": "isi kolkata",
+            "name": "Indian Statistical Institute, Kolkata",
+            "url": "https://www.isical.ac.in"
+        },
+        {
+            "key": "indian statistical institute",
+            "name": "Indian Statistical Institute, Kolkata",
+            "url": "https://www.isical.ac.in"
+        },
+        {
+            "key": "tifr mumbai",
+            "name": "Tata Institute of Fundamental Research",
+            "url": "https://www.tifr.res.in"
+        },
+        {
+            "key": "tifr",
+            "name": "Tata Institute of Fundamental Research",
+            "url": "https://www.tifr.res.in"
+        },
+        {
+            "key": "nift delhi",
+            "name": "National Institute of Fashion Technology, Delhi",
+            "url": "https://www.nift.ac.in"
+        },
+        {
+            "key": "nift",
+            "name": "National Institute of Fashion Technology",
+            "url": "https://www.nift.ac.in"
+        },
+        {
+            "key": "nid ahmedabad",
+            "name": "National Institute of Design, Ahmedabad",
+            "url": "https://www.nid.edu"
+        },
+        {
+            "key": "nid",
+            "name": "National Institute of Design",
+            "url": "https://www.nid.edu"
+        },
+        {
+            "key": "nlsiu bangalore",
+            "name": "National Law School of India University",
+            "url": "https://www.nls.ac.in"
+        },
+        {
+            "key": "nls",
+            "name": "National Law School of India University",
+            "url": "https://www.nls.ac.in"
+        },
+        {
+            "key": "nalsar hyderabad",
+            "name": "NALSAR University of Law",
+            "url": "https://www.nalsar.ac.in"
+        },
+        {
+            "key": "nalsar",
+            "name": "NALSAR University of Law",
+            "url": "https://www.nalsar.ac.in"
+        },
+        {
+            "key": "nujs kolkata",
+            "name": "The West Bengal National University of Juridical Sciences",
+            "url": "https://www.nujs.edu"
+        },
+        {
+            "key": "nujs",
+            "name": "The West Bengal National University of Juridical Sciences",
+            "url": "https://www.nujs.edu"
+        },
+        {
+            "key": "nlu delhi",
+            "name": "National Law University, Delhi",
+            "url": "http://www.nludelhi.ac.in"
+        },
+        {
+            "key": "nlud",
+            "name": "National Law University, Delhi",
+            "url": "http://www.nludelhi.ac.in"
+        },
+        {
+            "key": "gnlu gandhinagar",
+            "name": "Gujarat National Law University",
+            "url": "https://www.gnlu.ac.in"
+        },
+        {
+            "key": "gnlu",
+            "name": "Gujarat National Law University",
+            "url": "https://www.gnlu.ac.in"
+        },
+        {
+            "key": "nlu jodhpur",
+            "name": "National Law University, Jodhpur",
+            "url": "https://www.nlujodhpur.ac.in"
+        },
+        {
+            "key": "hnlu raipur",
+            "name": "Hidayatullah National Law University",
+            "url": "https://www.hnlu.ac.in"
+        },
+        {
+            "key": "hnlu",
+            "name": "Hidayatullah National Law University",
+            "url": "https://www.hnlu.ac.in"
+        },
+        {
+            "key": "rgnul patiala",
+            "name": "Rajiv Gandhi National University of Law",
+            "url": "http://www.rgnul.ac.in"
+        },
+        {
+            "key": "rgnul",
+            "name": "Rajiv Gandhi National University of Law",
+            "url": "http://www.rgnul.ac.in"
+        },
+        {
+            "key": "cnlu patna",
+            "name": "Chanakya National Law University",
+            "url": "https://www.cnlu.ac.in"
+        },
+        {
+            "key": "cnlu",
+            "name": "Chanakya National Law University",
+            "url": "https://www.cnlu.ac.in"
+        },
+        {
+            "key": "nusrl ranchi",
+            "name": "National University of Study and Research in Law",
+            "url": "https://www.nusrlranchi.ac.in"
+        },
+        {
+            "key": "nusrl",
+            "name": "National University of Study and Research in Law",
+            "url": "https://www.nusrlranchi.ac.in"
+        },
+        {
+            "key": "nlu odisha",
+            "name": "National Law University Odisha",
+            "url": "https://www.nluo.ac.in"
+        },
+        {
+            "key": "dtu delhi",
+            "name": "Delhi Technological University",
+            "url": "http://www.dtu.ac.in"
+        },
+        {
+            "key": "dtu",
+            "name": "Delhi Technological University",
+            "url": "http://www.dtu.ac.in"
+        },
+        {
+            "key": "delhi technological university",
+            "name": "Delhi Technological University",
+            "url": "http://www.dtu.ac.in"
+        },
+        {
+            "key": "nsut delhi",
+            "name": "Netaji Subhas University of Technology",
+            "url": "http://www.nsut.ac.in"
+        },
+        {
+            "key": "nsut",
+            "name": "Netaji Subhas University of Technology",
+            "url": "http://www.nsut.ac.in"
+        },
+        {
+            "key": "nsit",
+            "name": "Netaji Subhas University of Technology",
+            "url": "http://www.nsut.ac.in"
+        },
+        {
+            "key": "iiit delhi",
+            "name": "Indraprastha Institute of Information Technology Delhi",
+            "url": "https://www.iiitd.ac.in"
+        },
+        {
+            "key": "igdtuw delhi",
+            "name": "Indira Gandhi Delhi Technical University for Women",
+            "url": "http://www.igdtuw.ac.in"
+        },
+        {
+            "key": "igdtuw",
+            "name": "Indira Gandhi Delhi Technical University for Women",
+            "url": "http://www.igdtuw.ac.in"
+        },
+        {
+            "key": "ip university",
+            "name": "Guru Gobind Singh Indraprastha University",
+            "url": "http://www.ipu.ac.in"
+        },
+        {
+            "key": "ggsipu",
+            "name": "Guru Gobind Singh Indraprastha University",
+            "url": "http://www.ipu.ac.in"
+        },
+        {
+            "key": "ipu delhi",
+            "name": "Guru Gobind Singh Indraprastha University",
+            "url": "http://www.ipu.ac.in"
+        },
+        {
+            "key": "coep pune",
+            "name": "College of Engineering, Pune",
+            "url": "https://www.coep.org.in"
+        },
+        {
+            "key": "coep",
+            "name": "College of Engineering, Pune",
+            "url": "https://www.coep.org.in"
+        },
+        {
+            "key": "college of engineering pune",
+            "name": "College of Engineering, Pune",
+            "url": "https://www.coep.org.in"
+        },
+        {
+            "key": "vjti mumbai",
+            "name": "Veermata Jijabai Technological Institute",
+            "url": "https://vjti.ac.in"
+        },
+        {
+            "key": "vjti",
+            "name": "Veermata Jijabai Technological Institute",
+            "url": "https://vjti.ac.in"
+        },
+        {
+            "key": "spit mumbai",
+            "name": "Sardar Patel Institute of Technology",
+            "url": "https://www.spit.ac.in"
+        },
+        {
+            "key": "spit",
+            "name": "Sardar Patel Institute of Technology",
+            "url": "https://www.spit.ac.in"
+        },
+        {
+            "key": "dj sanghvi mumbai",
+            "name": "Dwarkadas J. Sanghvi College of Engineering",
+            "url": "https://www.djsce.ac.in"
+        },
+        {
+            "key": "djsce",
+            "name": "Dwarkadas J. Sanghvi College of Engineering",
+            "url": "https://www.djsce.ac.in"
+        },
+        {
+            "key": "ict mumbai",
+            "name": "Institute of Chemical Technology",
+            "url": "https://www.ictmumbai.edu.in"
+        },
+        {
+            "key": "udct",
+            "name": "Institute of Chemical Technology",
+            "url": "https://www.ictmumbai.edu.in"
+        },
+        {
+            "key": "iit dhanbad",
+            "name": "Indian Institute of Technology (ISM) Dhanbad",
+            "url": "https://www.iitism.ac.in"
+        },
+        {
+            "key": "ism dhanbad",
+            "name": "Indian Institute of Technology (ISM) Dhanbad",
+            "url": "https://www.iitism.ac.in"
+        },
+        {
+            "key": "isb hyderabad",
+            "name": "Indian School of Business",
+            "url": "https://www.isb.edu"
+        },
+        {
+            "key": "isb",
+            "name": "Indian School of Business",
+            "url": "https://www.isb.edu"
+        },
+        {
+            "key": "sp jain mumbai",
+            "name": "S.P. Jain Institute of Management and Research",
+            "url": "https://www.spjimr.org"
+        },
+        {
+            "key": "spjimr",
+            "name": "S.P. Jain Institute of Management and Research",
+            "url": "https://www.spjimr.org"
+        },
+        {
+            "key": "xlri jamshedpur",
+            "name": "XLRI - Xavier School of Management",
+            "url": "https://www.xlri.ac.in"
+        },
+        {
+            "key": "xlri",
+            "name": "XLRI - Xavier School of Management",
+            "url": "https://www.xlri.ac.in"
+        },
+        {
+            "key": "fms delhi",
+            "name": "Faculty of Management Studies, University of Delhi",
+            "url": "https://www.fms.edu"
+        },
+        {
+            "key": "fms",
+            "name": "Faculty of Management Studies, University of Delhi",
+            "url": "https://www.fms.edu"
+        },
+        {
+            "key": "mdi gurgaon",
+            "name": "Management Development Institute",
+            "url": "https://www.mdi.ac.in"
+        },
+        {
+            "key": "mdi",
+            "name": "Management Development Institute",
+            "url": "https://www.mdi.ac.in"
+        },
+        {
+            "key": "imt ghaziabad",
+            "name": "Institute of Management Technology, Ghaziabad",
+            "url": "https://www.imt.edu"
+        },
+        {
+            "key": "imt",
+            "name": "Institute of Management Technology, Ghaziabad",
+            "url": "https://www.imt.edu"
+        },
+        {
+            "key": "ximb",
+            "name": "Xavier Institute of Management, Bhubaneswar",
+            "url": "https://xim.edu.in"
+        },
+        {
+            "key": "xim bhubaneswar",
+            "name": "Xavier Institute of Management, Bhubaneswar",
+            "url": "https://xim.edu.in"
+        },
+        {
+            "key": "great lakes chennai",
+            "name": "Great Lakes Institute of Management",
+            "url": "https://www.greatlakes.edu.in"
+        },
+        {
+            "key": "glim",
+            "name": "Great Lakes Institute of Management",
+            "url": "https://www.greatlakes.edu.in"
+        },
+        {
+            "key": "tapmi manipal",
+            "name": "T.A. Pai Management Institute",
+            "url": "https://www.tapmi.edu.in"
+        },
+        {
+            "key": "tapmi",
+            "name": "T.A. Pai Management Institute",
+            "url": "https://www.tapmi.edu.in"
+        },
+        {
+            "key": "jbims mumbai",
+            "name": "Jamnalal Bajaj Institute of Management Studies",
+            "url": "https://www.jbims.edu"
+        },
+        {
+            "key": "jbims",
+            "name": "Jamnalal Bajaj Institute of Management Studies",
+            "url": "https://www.jbims.edu"
+        },
+        {
+            "key": "sibm pune",
+            "name": "Symbiosis Institute of Business Management, Pune",
+            "url": "https://www.sibm.edu"
+        },
+        {
+            "key": "sibm",
+            "name": "Symbiosis Institute of Business Management, Pune",
+            "url": "https://www.sibm.edu"
+        },
+        {
+            "key": "nmims mumbai",
+            "name": "NMIMS University",
+            "url": "https://www.nmims.edu"
+        },
+        {
+            "key": "nmims",
+            "name": "NMIMS University",
+            "url": "https://www.nmims.edu"
+        },
+        {
+            "key": "srcc delhi",
+            "name": "Shri Ram College of Commerce",
+            "url": "https://www.srcc.edu"
+        },
+        {
+            "key": "srcc",
+            "name": "Shri Ram College of Commerce",
+            "url": "https://www.srcc.edu"
+        },
+        {
+            "key": "hindu college",
+            "name": "Hindu College, University of Delhi",
+            "url": "https://www.hinducollege.ac.in"
+        },
+        {
+            "key": "st stephens college",
+            "name": "St. Stephen's College, Delhi",
+            "url": "https://www.ststephens.edu"
+        },
+        {
+            "key": "st stephens",
+            "name": "St. Stephen's College, Delhi",
+            "url": "https://www.ststephens.edu"
+        },
+        {
+            "key": "lady shri ram college",
+            "name": "Lady Shri Ram College for Women",
+            "url": "https://www.lsr.edu.in"
+        },
+        {
+            "key": "lsr",
+            "name": "Lady Shri Ram College for Women",
+            "url": "https://www.lsr.edu.in"
+        },
+        {
+            "key": "hansraj college",
+            "name": "Hansraj College",
+            "url": "https://www.hansrajcollege.ac.in"
+        },
+        {
+            "key": "miranda house",
+            "name": "Miranda House, University of Delhi",
+            "url": "https://www.mirandahouse.ac.in"
+        },
+        {
+            "key": "presidency college kolkata",
+            "name": "Presidency University, Kolkata",
+            "url": "https://www.presiuniv.ac.in"
+        },
+        {
+            "key": "presidency university kolkata",
+            "name": "Presidency University, Kolkata",
+            "url": "https://www.presiuniv.ac.in"
+        },
+        {
+            "key": "st xaviers kolkata",
+            "name": "St. Xavier's College, Kolkata",
+            "url": "https://www.sxccal.edu"
+        },
+        {
+            "key": "st xaviers mumbai",
+            "name": "St. Xavier's College, Mumbai",
+            "url": "https://xaviers.edu"
+        },
+        {
+            "key": "loyola college chennai",
+            "name": "Loyola College, Chennai",
+            "url": "https://www.loyolacollege.edu"
+        },
+        {
+            "key": "loyola",
+            "name": "Loyola College, Chennai",
+            "url": "https://www.loyolacollege.edu"
+        },
+        {
+            "key": "fergusson college pune",
+            "name": "Fergusson College, Pune",
+            "url": "http://www.fergusson.edu"
+        },
+        {
+            "key": "stella maris college",
+            "name": "Stella Maris College, Chennai",
+            "url": "https://www.stellamariscollege.edu.in"
+        },
+        {
+            "key": "madras christian college",
+            "name": "Madras Christian College",
+            "url": "https://www.mcc.edu.in"
+        },
+        {
+            "key": "mcc chennai",
+            "name": "Madras Christian College",
+            "url": "https://www.mcc.edu.in"
+        },
+        {
+            "key": "mg university",
+            "name": "Mahatma Gandhi University",
+            "url": "https://www.mgu.ac.in"
+        },
+        {
+            "key": "mgu kottayam",
+            "name": "Mahatma Gandhi University",
+            "url": "https://www.mgu.ac.in"
+        },
+        {
+            "key": "cusat",
+            "name": "Cochin University of Science and Technology",
+            "url": "https://www.cusat.ac.in"
+        },
+        {
+            "key": "cochin university",
+            "name": "Cochin University of Science and Technology",
+            "url": "https://www.cusat.ac.in"
+        },
+        {
+            "key": "cet trivandrum",
+            "name": "College of Engineering Trivandrum",
+            "url": "https://www.cet.ac.in"
+        },
+        {
+            "key": "college of engineering trivandrum",
+            "name": "College of Engineering Trivandrum",
+            "url": "https://www.cet.ac.in"
+        },
+        {
+            "key": "nssce palakkad",
+            "name": "NSS College of Engineering",
+            "url": "https://www.nssce.ac.in"
+        },
+        {
+            "key": "gec thrissur",
+            "name": "Government Engineering College, Thrissur",
+            "url": "https://www.gectcr.ac.in"
+        },
+        {
+            "key": "mace kothamangalam",
+            "name": "Mar Athanasius College of Engineering",
+            "url": "https://www.mace.ac.in"
+        },
+        {
+            "key": "rit kottayam",
+            "name": "Rajagiri School of Engineering & Technology",
+            "url": "https://www.rajagiritech.ac.in"
+        },
+        {
+            "key": "rajagiri",
+            "name": "Rajagiri School of Engineering & Technology",
+            "url": "https://www.rajagiritech.ac.in"
+        },
+        {
+            "key": "tkmce kollam",
+            "name": "TKM College of Engineering",
+            "url": "https://www.tkmce.ac.in"
+        },
+        {
+            "key": "jecrc jaipur",
+            "name": "JECRC University",
+            "url": "https://www.jecrcu.edu.in"
+        },
+        {
+            "key": "malaviya nit jaipur",
+            "name": "Malaviya National Institute of Technology Jaipur",
+            "url": "https://www.mnit.ac.in"
+        },
+        {
+            "key": "mnit jaipur",
+            "name": "Malaviya National Institute of Technology Jaipur",
+            "url": "https://www.mnit.ac.in"
+        },
+        {
+            "key": "bits mesra",
+            "name": "Birla Institute of Technology, Mesra",
+            "url": "https://www.bitmesra.ac.in"
+        },
+        {
+            "key": "bit mesra",
+            "name": "Birla Institute of Technology, Mesra",
+            "url": "https://www.bitmesra.ac.in"
+        },
+        {
+            "key": "iiit kochi",
+            "name": "Indian Institute of Information Technology Kochi",
+            "url": "https://www.iiitkochi.ac.in"
+        },
+        {
+            "key": "heritage institute kolkata",
+            "name": "Heritage Institute of Technology",
+            "url": "https://www.heritageit.edu"
+        },
+        {
+            "key": "kiit bhubaneswar",
+            "name": "Kalinga Institute of Industrial Technology",
+            "url": "https://kiit.ac.in"
+        },
+        {
+            "key": "kiit",
+            "name": "Kalinga Institute of Industrial Technology",
+            "url": "https://kiit.ac.in"
+        },
+        {
+            "key": "siksha o anusandhan",
+            "name": "Siksha 'O' Anusandhan",
+            "url": "https://www.soa.ac.in"
+        },
+        {
+            "key": "soa bhubaneswar",
+            "name": "Siksha 'O' Anusandhan",
+            "url": "https://www.soa.ac.in"
+        },
+        {
+            "key": "bput odisha",
+            "name": "Biju Patnaik University of Technology",
+            "url": "https://www.bput.ac.in"
+        },
+        {
+            "key": "bput",
+            "name": "Biju Patnaik University of Technology",
+            "url": "https://www.bput.ac.in"
+        },
+        {
+            "key": "gitam university",
+            "name": "GITAM University",
+            "url": "https://www.gitam.edu"
+        },
+        {
+            "key": "gitam",
+            "name": "GITAM University",
+            "url": "https://www.gitam.edu"
+        },
+        {
+            "key": "vignan university",
+            "name": "Vignan's Foundation for Science, Technology and Research",
+            "url": "https://www.vignan.ac.in"
+        },
+        {
+            "key": "vit ap",
+            "name": "VIT-AP University",
+            "url": "https://vitap.ac.in"
+        },
+        {
+            "key": "jntuh",
+            "name": "Jawaharlal Nehru Technological University, Hyderabad",
+            "url": "https://www.jntuh.ac.in"
+        },
+        {
+            "key": "jntu hyderabad",
+            "name": "Jawaharlal Nehru Technological University, Hyderabad",
+            "url": "https://www.jntuh.ac.in"
+        },
+        {
+            "key": "jntuk",
+            "name": "Jawaharlal Nehru Technological University, Kakinada",
+            "url": "https://www.jntuk.edu.in"
+        },
+        {
+            "key": "jntu kakinada",
+            "name": "Jawaharlal Nehru Technological University, Kakinada",
+            "url": "https://www.jntuk.edu.in"
+        },
+        {
+            "key": "jntua",
+            "name": "Jawaharlal Nehru Technological University Anantapur",
+            "url": "https://www.jntua.ac.in"
+        },
+        {
+            "key": "jntu anantapur",
+            "name": "Jawaharlal Nehru Technological University Anantapur",
+            "url": "https://www.jntua.ac.in"
+        },
+        {
+            "key": "cbit hyderabad",
+            "name": "Chaitanya Bharathi Institute of Technology",
+            "url": "https://www.cbit.ac.in"
+        },
+        {
+            "key": "cbit",
+            "name": "Chaitanya Bharathi Institute of Technology",
+            "url": "https://www.cbit.ac.in"
+        },
+        {
+            "key": "vasavi college hyderabad",
+            "name": "Vasavi College of Engineering",
+            "url": "https://www.vce.ac.in"
+        },
+        {
+            "key": "cvr college hyderabad",
+            "name": "CVR College of Engineering",
+            "url": "https://cvr.ac.in"
+        },
+        {
+            "key": "bits vizag",
+            "name": "BVRIT Hyderabad College of Engineering for Women",
+            "url": "https://www.bvrit.ac.in"
+        },
+        {
+            "key": "src college",
+            "name": "Sri Ramakrishna Engineering College",
+            "url": "https://www.srec.ac.in"
+        },
+        {
+            "key": "gec barton hill",
+            "name": "Government Engineering College, Barton Hill",
+            "url": "https://www.gecbh.ac.in"
+        },
+        {
+            "key": "punjab engineering college",
+            "name": "Punjab Engineering College",
+            "url": "https://pec.ac.in"
+        },
+        {
+            "key": "pec chandigarh",
+            "name": "Punjab Engineering College",
+            "url": "https://pec.ac.in"
+        },
+        {
+            "key": "new horizon college of engineering",
+            "name": "New Horizon College of Engineering, Bengaluru",
+            "url": "https://newhorizonindia.edu"
+        },
+        {
+            "key": "nhce",
+            "name": "New Horizon College of Engineering, Bengaluru",
+            "url": "https://newhorizonindia.edu"
+        },
+        {
+            "key": "new horizon bangalore",
+            "name": "New Horizon College of Engineering, Bengaluru",
+            "url": "https://newhorizonindia.edu"
+        },
+        {
+            "key": "new horizon bengaluru",
+            "name": "New Horizon College of Engineering, Bengaluru",
+            "url": "https://newhorizonindia.edu"
+        }
+    ]
+}
