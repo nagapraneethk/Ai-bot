@@ -1909,6 +1909,11 @@
             "key": "new horizon bengaluru",
             "name": "New Horizon College of Engineering, Bengaluru",
             "url": "https://newhorizonindia.edu"
+        },
+        {
+            "key": "tadipatri engineering college",
+            "name": "Tadipatri Engineering College",
+            "url": "https://tec.ac.in"
         }
     ]
 }
